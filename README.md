@@ -1,0 +1,2 @@
+# premium-homebrewing-001-home-brewing-journal-notion
+Tired of searching through sticky notes, half-empty notebooks, and forgotten spreadsheets to remember what you did in your last batch? The Home Brewing Journal - Notion Template turns your brewing chaos into a clear, repeatable system.  This template solves the universal homebrewer pain point of losing track of process details and recipe tweaks. It
